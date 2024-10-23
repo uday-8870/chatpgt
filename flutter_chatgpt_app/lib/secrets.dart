@@ -1,0 +1,2 @@
+const String apiKey = "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";
+const String proxy = "";
