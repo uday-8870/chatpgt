@@ -1,2 +1,1 @@
-this is a simple clone of the chatgpt application which is used for the daily usage of problem solving and trouble shooting 
-CAUTION: use your api key instead and try running
+This application is a basic clone of ChatGPT, designed for everyday problem-solving and troubleshooting tasks. Caution: Make sure to use your own API key before running it. Adjust the text as needed for your specific use!
